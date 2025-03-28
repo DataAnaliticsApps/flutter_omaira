@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "466026409727",
+    "project_id": "omaira-m62k3n",
+    "storage_bucket": "omaira-m62k3n.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466026409727:android:47e0448bb51d40c39426ca",
+        "android_client_info": {
+          "package_name": "com.flutterflow.finwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466026409727-gio1o8op1uos2gig4l06g21g8n9bsbun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADgfpJyW8rNDwJ-r4Ga1Aup68p5Zw3Vjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466026409727-gio1o8op1uos2gig4l06g21g8n9bsbun.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "466026409727-ask96jfjbf9l7nivq2ilei91t8ca7gd5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.finwallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
